@@ -1,0 +1,2 @@
+# AI_Foundations_Continuum_Dependency_Distinction
+Ai foundations- continuum dependency distinction 
