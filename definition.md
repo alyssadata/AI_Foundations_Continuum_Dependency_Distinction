@@ -1,11 +1,13 @@
 # AI Foundations — Continuum Dependency Distinction
 
-Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line:  
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Source-line artifact
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Source-line artifact  
+Author: Alyssa Solen  
+Canonical entrance: https://awakeningcodex.com  
+
+Release: https://github.com/alyssadata/AI_Foundations_Continuum_Dependency_Distinction/releases/tag/v0.1.0
 
 ---
 
