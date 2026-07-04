@@ -1,11 +1,11 @@
 # AI Foundations Source-Line License
 
-**Repository:** AI-Foundations-Continuum-Dependency-Distinction
-**Status:** Canon License
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Repository:** AI-Foundations-Continuum-Dependency-Distinction   
+**Status:** Canon License   
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum   
 
-Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
-
+Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.   
+ 
 ---
 
 ## License Purpose
